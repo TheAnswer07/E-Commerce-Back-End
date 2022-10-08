@@ -14,11 +14,7 @@
 * [GitHub Profile Link](#github-profile)
 * [GitHub App Link](#app-github-link)
 * [Walkthrough video demonstrating App Functionality](#app-video-link)
-* [Screenshots:](#screenshots)
-    1. [Tests run passed](#Tests-run-passed)
-    2. [E-Commerce Back-End 1](#E-Commerce-Back-End-1)
-    3. [E-Commerce Back-End 2](#E-Commerce-Back-End-2)
-
+* [Screenshot](#E-Commerce-Back-End)
 
 ### Project Description:
 
@@ -53,18 +49,8 @@ You can contribute to this project by accessing my GitHub page.
 
 ### App Video Link:
 
-[Walkthrough video demonstrating App Functionality](https://)
+[Walkthrough video demonstrating App Functionality](https://drive.google.com/file/d/1adFM7AyMKbvAiZC407W2MiZ4rGX6j7D1/view)
 
-### Screenshots:
+### Screenshot:
 
-1. Tests run passed:
-
-![Tests run passed](screenshots/ "Tests run passed")
-
-2. E-Commerce Back-End-1:
-
-![E-Commerce Back-End-1](screenshots/ "E-Commerce Back-End 1")
-
-3. E-Commerce Back-End 2:
-
-![E-Commerce Back-End 2](screenshots/ "E-Commerce Back-End 2")
+![E Commerce Back End Via Insomnia](screenshot/E-Commerce-Back-End-Via-Insomnia.png "E-Commerce Back-End Via Insomnia")
